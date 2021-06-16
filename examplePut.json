@@ -1,0 +1,7 @@
+{
+    "TableName": "Animals",
+    "Item": {
+        "Species_Name": "Horse",
+        "Sound": "Niegh"
+    }
+}

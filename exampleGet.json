@@ -1,0 +1,4 @@
+{
+    "TableName": "Animals",
+    "Key": {"Species_Name": "Dog"}
+}
